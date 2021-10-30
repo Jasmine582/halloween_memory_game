@@ -103,7 +103,7 @@ h3 {
 
 .back {
   background: #f1990b;
-  background-image: url("/images/skelton.jpeg");
+  background-image: url("../images/skelton.jpeg");
   background-size: cover;
   backface-visibility: hidden;
 }
