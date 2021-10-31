@@ -157,6 +157,9 @@ audio {
     grid-gap: 2rem;
     perspective: 800px;
   }
+  audio {
+  width: 200%;
+}
 }
 
 @media (min-width: 1024px) {
